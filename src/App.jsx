@@ -126,13 +126,17 @@ function App() {
        <div className="w-full h-auto bg-gray-700 flex flex-row p-8">
             <div className="text-white font-Poppins flex flex-col flex-grow justify-start items-start">
             <h1 className=" font-bold text-lg">Phone Number</h1>
-            <a href="tel:+1 (310) 962-4808">
-            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">US: +1 (310) 962-4808</h2>
+            <a href="tel:+1 (818) 638-3088">
+            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">US: +1 (818) 638-3088</h2>
             </a>
             <h1 className=" font-bold text-lg">Fax Number</h1>
-            <a href="tel:(657) 233-0637">
-            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">(657) 233-0637</h2>
+            <a href="tel:(818) 898-1108">
+            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">(818) 898-1108</h2>
             </a>
+              <h1 className=" font-bold text-lg">Address</h1>
+            <a href="Address: 12062 Valley View St Ste. 225B Garden Grove, CA 92845">
+            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">12062 Valley View St Ste. 225B Garden Grove, CA 92845</h2>
+            </a> 
             </div>
             <div className="text-white font-Poppins flex flex-col flex-grow justify-start items-start">
             <h1 className=" font-bold text-lg">E-mail Address</h1>
